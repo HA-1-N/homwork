@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/homwork/static/css/main.e78e3098.chunk.css",
+    "main.js": "/homwork/static/js/main.a55dabbe.chunk.js",
+    "runtime-main.js": "/homwork/static/js/runtime-main.a3f5f9be.js",
+    "static/js/2.9a962c04.chunk.js": "/homwork/static/js/2.9a962c04.chunk.js",
+    "static/js/3.5dccfde9.chunk.js": "/homwork/static/js/3.5dccfde9.chunk.js",
+    "static/css/4.400afaa5.chunk.css": "/homwork/static/css/4.400afaa5.chunk.css",
+    "static/js/4.d648ee69.chunk.js": "/homwork/static/js/4.d648ee69.chunk.js",
+    "static/js/5.7133ee85.chunk.js": "/homwork/static/js/5.7133ee85.chunk.js",
+    "static/js/6.a48710ef.chunk.js": "/homwork/static/js/6.a48710ef.chunk.js",
+    "static/js/7.8ac6b457.chunk.js": "/homwork/static/js/7.8ac6b457.chunk.js",
+    "index.html": "/homwork/index.html",
+    "static/js/2.9a962c04.chunk.js.LICENSE.txt": "/homwork/static/js/2.9a962c04.chunk.js.LICENSE.txt",
+    "static/media/logo-420-x-108.2f644c81.png": "/homwork/static/media/logo-420-x-108.2f644c81.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3f5f9be.js",
+    "static/js/2.9a962c04.chunk.js",
+    "static/css/main.e78e3098.chunk.css",
+    "static/js/main.a55dabbe.chunk.js"
+  ]
+}
