@@ -1,1 +1,0 @@
-(this["webpackJsonpreact-app-template"]=this["webpackJsonpreact-app-template"]||[]).push([[6],{118:function(t,e,a){"use strict";a.r(e);a(0);var p=a(2);e.default=function(t){return Object(p.jsx)("div",{children:"ContactPage"})}}}]);

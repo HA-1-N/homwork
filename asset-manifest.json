@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/homwork/static/css/main.e78e3098.chunk.css",
-    "main.js": "/homwork/static/js/main.a55dabbe.chunk.js",
-    "runtime-main.js": "/homwork/static/js/runtime-main.a3f5f9be.js",
-    "static/js/2.9a962c04.chunk.js": "/homwork/static/js/2.9a962c04.chunk.js",
-    "static/js/3.5dccfde9.chunk.js": "/homwork/static/js/3.5dccfde9.chunk.js",
-    "static/css/4.400afaa5.chunk.css": "/homwork/static/css/4.400afaa5.chunk.css",
-    "static/js/4.d648ee69.chunk.js": "/homwork/static/js/4.d648ee69.chunk.js",
-    "static/js/5.7133ee85.chunk.js": "/homwork/static/js/5.7133ee85.chunk.js",
-    "static/js/6.a48710ef.chunk.js": "/homwork/static/js/6.a48710ef.chunk.js",
-    "static/js/7.8ac6b457.chunk.js": "/homwork/static/js/7.8ac6b457.chunk.js",
+    "main.css": "/homwork/static/css/main.f75bec0f.chunk.css",
+    "main.js": "/homwork/static/js/main.c34d4455.chunk.js",
+    "runtime-main.js": "/homwork/static/js/runtime-main.649bea1d.js",
+    "static/js/2.8a881576.chunk.js": "/homwork/static/js/2.8a881576.chunk.js",
+    "static/js/3.38ee2cc6.chunk.js": "/homwork/static/js/3.38ee2cc6.chunk.js",
+    "static/js/4.0bfe5a21.chunk.js": "/homwork/static/js/4.0bfe5a21.chunk.js",
+    "static/css/5.d042087a.chunk.css": "/homwork/static/css/5.d042087a.chunk.css",
+    "static/js/5.91e179e4.chunk.js": "/homwork/static/js/5.91e179e4.chunk.js",
+    "static/js/6.4c95ba65.chunk.js": "/homwork/static/js/6.4c95ba65.chunk.js",
+    "static/css/7.80a2975d.chunk.css": "/homwork/static/css/7.80a2975d.chunk.css",
+    "static/js/7.f0417715.chunk.js": "/homwork/static/js/7.f0417715.chunk.js",
+    "static/css/8.b78d6dd5.chunk.css": "/homwork/static/css/8.b78d6dd5.chunk.css",
+    "static/js/8.f2772a6c.chunk.js": "/homwork/static/js/8.f2772a6c.chunk.js",
+    "static/js/9.fa81f80d.chunk.js": "/homwork/static/js/9.fa81f80d.chunk.js",
+    "static/js/10.0e6bdd7d.chunk.js": "/homwork/static/js/10.0e6bdd7d.chunk.js",
     "index.html": "/homwork/index.html",
-    "static/js/2.9a962c04.chunk.js.LICENSE.txt": "/homwork/static/js/2.9a962c04.chunk.js.LICENSE.txt",
+    "static/js/2.8a881576.chunk.js.LICENSE.txt": "/homwork/static/js/2.8a881576.chunk.js.LICENSE.txt",
+    "static/js/3.38ee2cc6.chunk.js.LICENSE.txt": "/homwork/static/js/3.38ee2cc6.chunk.js.LICENSE.txt",
     "static/media/logo-420-x-108.2f644c81.png": "/homwork/static/media/logo-420-x-108.2f644c81.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a3f5f9be.js",
-    "static/js/2.9a962c04.chunk.js",
-    "static/css/main.e78e3098.chunk.css",
-    "static/js/main.a55dabbe.chunk.js"
+    "static/js/runtime-main.649bea1d.js",
+    "static/js/3.38ee2cc6.chunk.js",
+    "static/css/main.f75bec0f.chunk.css",
+    "static/js/main.c34d4455.chunk.js"
   ]
 }
