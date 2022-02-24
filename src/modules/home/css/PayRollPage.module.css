@@ -1,0 +1,126 @@
+.main{
+    position: relative;
+}
+
+.container{
+    background-color: rgb(238, 238, 238);
+    display: block;
+    height: 100%;
+    width: 100%;
+    padding: 1.2rem;
+}
+
+.titleContainer{
+    margin: 1rem 0;
+}
+
+.titleContainer{
+    width: 100%;
+    position: relative;
+}
+
+.titleBtn{
+    position: absolute;
+    right: 0;
+    top: 10px;
+}
+
+.titleBtn{
+    border: none;
+    background-color: #48dbfb;
+    color: #fff;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    border-radius: 6px;
+    padding: 0.4rem 1rem;
+}
+
+.titleBtn:hover{
+    opacity: 0.8;
+}
+
+/* Option */
+.optionContainer{
+    margin: 1.6rem 0;
+}
+
+.optionSelect{
+    width: 100%;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 0.2rem 0.8rem;
+    color: rgb(124, 124, 124);
+}
+
+.optionInput{
+    width: 100%;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 0.2rem 0.8rem;
+    color: rgb(124, 124, 124);
+}
+
+.optionBtn{
+    width: 100%;
+}
+
+/* Table */
+
+.tableHeader{
+    padding: 0.6rem 1.2rem;
+}
+
+.wrapRow{
+    margin: 1.2rem 0;
+    background-color: #fff;
+    padding: 0.6rem 1.2rem;
+    border-radius: 1rem;
+}
+
+.content{
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transform: translateY(25%);
+}
+
+.deleteIcon{
+    transform: translateY(25%);
+    color: red;
+    cursor: pointer;
+}
+
+.deleteIcon:hover{
+    opacity: 0.8;
+}
+
+.hiddenText{
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 25px;
+    -webkit-line-clamp: 1;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    margin: 0;
+}
+
+.btnDetail{
+    width: 90%;
+    padding: 0.4rem 0.8rem;
+    border: 1px solid #84b2e0;
+    border-radius: 1rem;
+    font-size: 1rem;
+    background-color: #fff;
+}
+
+.btnDetail:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.iconDetail{
+    margin-left: 1.2rem;
+}

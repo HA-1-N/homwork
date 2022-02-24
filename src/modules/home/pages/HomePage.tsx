@@ -75,9 +75,9 @@ const HomePage = (props: Props) => {
   return (
     <>
 
-      {/* <a href='/payroll' className={clsx(styles.payrollLink)}>
+      <a href='/payroll' className={clsx(styles.payrollLink)}>
         PayRoll
-      </a> */}
+      </a>
       <div className={clsx(styles.infoContainer)}>
 
         <div className={clsx(styles.btnWrap)}>

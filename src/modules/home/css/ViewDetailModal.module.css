@@ -1,0 +1,40 @@
+.modalViewDetail{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.4);
+    min-width: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.viewDetailContainer{
+    background-color: #fff;
+    height: 300px;
+    transform: translateY(100%);
+}
+
+.viewDetailHeader{
+    text-align: center;
+    color: #ccc;
+}
+
+.wrapModalInput{
+    padding: 1.2rem 0.6rem;
+}
+
+.modalInput{
+    margin: 0 1rem;
+}
+
+.wrapModalBtn{
+    float: right;
+    padding: 1.2rem 0.6rem;
+}
+
+.modalBtn{
+    margin: 0 1rem;
+}
